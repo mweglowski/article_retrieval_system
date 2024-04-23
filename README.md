@@ -17,7 +17,7 @@ This project guides you in creating a system that efficiently searches for and r
 
 ## Quickstart
 
-First, ensure you have [Git](https://git-scm.com/) installed on your system to manage cloning the project repository. You will also need [Python](https://www.python.org/).
+First, ensure you have [Git](https://git-scm.com/) installed on your system to manage cloning the project repository. You will also need [Python](https://www.python.org/). This project uses Python 3.10.12 version.
 
 Clone the repository and navigate to the project directory:
 
