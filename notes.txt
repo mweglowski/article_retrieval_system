@@ -1,4 +1,0 @@
-CHALLANGES
-optimal chunk_size
-optimal chunk_overlay
-
