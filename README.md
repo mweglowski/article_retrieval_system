@@ -37,12 +37,10 @@ Navigate to the main.ipynb file in the Jupyter Notebook interface to begin.
 
 To start using the Article Retrieval System, follow these simple steps:
 
-1. Set Up Your Environment
-   Make sure to install all the required libraries as mentioned in the Quickstart section. This prepares your system for running the notebook.
-2. Follow the Notebook
-   Open the main.ipynb file in Jupyter Notebook. This file contains clear, step-by-step instructions on how to use each part of the system.
-3. Run the Code
-   Execute the code cells in the order they appear. By running these cells, you can see how the system operates and ensure that everything is working correctly.
+1. **Set Up Your Environment** - make sure to install all the required libraries as mentioned in the Quickstart section. This prepares your system for running the notebook.
+2. **Follow the Notebook** - open the main.ipynb file in Jupyter Notebook. This file contains clear, step-by-step instructions on how to use each part of the system.
+3. **Run the Code** - execute the code cells in the order they appear. By running these cells, you can see how the system operates and ensure that everything is working correctly.
+
 Everything you need to get started is thoroughly explained within the main.ipynb notebook, making it easy to get up and running without prior knowledge of the system’s inner workings.
 
 ---
