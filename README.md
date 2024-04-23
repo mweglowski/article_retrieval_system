@@ -8,12 +8,12 @@ This project guides you in creating a system that efficiently searches for and r
 
 ## Built With
 
-- [LangChain](https://python.langchain.com/docs/get_started/introduction) - Simlifies creating applications with llm's usage.
+- [LangChain](https://python.langchain.com/docs/get_started/introduction) - simlifies creating applications with llms usage.
 - [OpenAI](https://platform.openai.com/docs/introduction) - APIs for advanced AI models and embeddings.
-- [Pandas](https://pandas.pydata.org/)- A library providing high-performance, easy-to-use data structures.
-- [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python.
-- [Matplotlib](https://matplotlib.org/) - A plotting library for the Python programming language and its numerical mathematics extension NumPy.
-- [ChromaDB](https://www.trychroma.com/) - A modern vector database designed for high-performance similarity searches, making it ideal for applications that involve matching and retrieving large volumes of data quickly.
+- [Pandas](https://pandas.pydata.org/)- library providing high-performance, easy-to-use data structures.
+- [NumPy](https://numpy.org/) - fundamental package for scientific computing with Python.
+- [Matplotlib](https://matplotlib.org/) - plotting library for the Python programming language and its numerical mathematics extension NumPy.
+- [ChromaDB](https://www.trychroma.com/) - modern vector database designed for high-performance similarity searches, making it ideal for applications that involve matching and retrieving large volumes of data quickly.
 
 ## Quickstart
 
@@ -22,8 +22,8 @@ First, ensure you have [Git](https://git-scm.com/) installed on your system to m
 Clone the repository and navigate to the project directory:
 
 ```sh
-git clone https://github.com/yourusername/article-retrieval-system.git
-cd article-retrieval-system
+git clone https://github.com/mweglowski/article_retrieval_system.git
+cd article_retrieval_system
 ```
 
 Install the required Python packages:
