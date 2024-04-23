@@ -1,0 +1,37 @@
+# Article Retrieval System
+
+This project guides you in creating a system that efficiently searches for and retrieves articles using Retrieval Augmented Generation (RAG). It leverages well-known tools and libraries to manage data and enhance the search process, making it both fast and effective.
+
+## How Retrieval Augmented Generation Works?
+
+![RAG Cycle](https://i.imgur.com/3ODqsW4.png)
+
+## Built With
+
+- [LangChain](https://python.langchain.com/docs/get_started/introduction) - Simlifies creating applications with llm's usage.
+- [OpenAI](https://platform.openai.com/docs/introduction) - APIs for advanced AI models and embeddings.
+- [Pandas](https://pandas.pydata.org/)- A library providing high-performance, easy-to-use data structures.
+- [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python.
+- [Matplotlib](https://matplotlib.org/) - A plotting library for the Python programming language and its numerical mathematics extension NumPy.
+- [ChromaDB](https://www.trychroma.com/) - A modern vector database designed for high-performance similarity searches, making it ideal for applications that involve matching and retrieving large volumes of data quickly.
+
+## Quickstart
+
+First, ensure you have [Git](https://git-scm.com/) installed on your system to manage cloning the project repository. You will also need [Python](https://www.python.org/).
+
+Clone the repository and navigate to the project directory:
+
+```sh
+git clone https://github.com/yourusername/article-retrieval-system.git
+cd article-retrieval-system
+```
+
+Install the required Python packages:
+
+```sh
+pip install chromadb pandas numpy langchain openai matplotlib python-dotenv tiktoken lark langchain-openai
+```
+
+Navigate to the main.ipynb file in the Jupyter Notebook interface to begin.
+
+---
